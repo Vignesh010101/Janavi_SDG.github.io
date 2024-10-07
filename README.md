@@ -21,7 +21,7 @@ The content was curated from trusted sources, including NASA’s SDG data resour
 
 ## The Benefits: 
 
-### Enhanced Engagement: 
+### Enhanced Engagement:  
 Students are more engaged due to the gamified learning model, which promotes active participation. Accessibility: The platform makes high-quality educational resources available to all students, regardless of their school's budget or technological limitations. Scalability: It can easily be scaled to cover additional subjects and be adapted by schools worldwide, making it a flexible solution for a variety of educational systems. Lifelong Learning: The project encourages students to take control of their own learning journey, fostering a culture of lifelong education.
 
 ## What We Hope to Achieve: 
