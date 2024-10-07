@@ -1,5 +1,5 @@
 # Janavi_SDG
-This website was developed as part of the NASA App Challenge to address real-world problems with a focus on Sustainable Development Goals (SDGs). 
+This website was developed as part of the NASA SpaceApp Challenge to address real-world problems with a focus on Sustainable Development Goals (SDGs). 
 
 Our project, Janavi, is named with deep meaning—"As precious as your life"—because we believe education holds that same value. The core of our project is a gamified educational platform designed specifically for high school students, focused on teaching the principles of sustainable development (aligned with the United Nations' SDGs). We built this platform to address several pressing issues in education, such as outdated teaching methods, lack of interactive resources, and accessibility challenges, especially in under-resourced areas.
 
