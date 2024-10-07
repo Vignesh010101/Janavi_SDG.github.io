@@ -24,7 +24,7 @@ The content was curated from trusted sources, including NASA’s SDG data resour
 ### Enhanced Engagement: 
 Students are more engaged due to the gamified learning model, which promotes active participation. Accessibility: The platform makes high-quality educational resources available to all students, regardless of their school's budget or technological limitations. Scalability: It can easily be scaled to cover additional subjects and be adapted by schools worldwide, making it a flexible solution for a variety of educational systems. Lifelong Learning: The project encourages students to take control of their own learning journey, fostering a culture of lifelong education.
 
-## What We Hope to Achieve:
+## What We Hope to Achieve: 
 Through Janavi, we aspire to make quality education on sustainability available to every student, regardless of where they live or study. We hope to inspire students to become informed global citizens who are not only aware of sustainable practices but also motivated to contribute to a sustainable future. We believe that by making education interactive, fun, and accessible, we can unlock the potential of every student to make a positive impact on the world.
 
 This project has been a collaborative effort by our team, Galactic Impact, and we see it as just the beginning. Our future goals include expanding the subject coverage, integrating AI for personalized learning, and partnering with more schools and institutions to reach an even broader audience.
