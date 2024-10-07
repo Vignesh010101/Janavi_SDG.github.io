@@ -11,7 +11,13 @@ Through this approach, we aim to bridge the gap in education quality by offering
 ## The Technologies Behind It:
 
 ### Frontend: 
-We used HTML, CSS, and JavaScript to create a responsive and engaging interface. We also leveraged Bootstrap for faster development and to ensure the design is mobile-friendly. Framework: React.js was chosen for its component-based structure, which allowed us to build a user-friendly and scalable interface. React's flexibility helped us ensure a smooth user experience. Data Sources: The content was curated from trusted sources, including NASA’s SDG data resources and the UN’s official SDG website. This ensures students receive accurate, up-to-date information related to sustainability.
+We used HTML, CSS, and JavaScript to create a responsive and engaging interface. We also leveraged Bootstrap for faster development and to ensure the design is mobile-friendly. 
+
+### Framework: 
+React.js was chosen for its component-based structure, which allowed us to build a user-friendly and scalable interface. React's flexibility helped us ensure a smooth user experience. 
+
+### Data Sources: 
+The content was curated from trusted sources, including NASA’s SDG data resources and the UN’s official SDG website. This ensures students receive accurate, up-to-date information related to sustainability.
 
 ## The Benefits:
 
