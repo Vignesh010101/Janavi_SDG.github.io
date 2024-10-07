@@ -19,7 +19,7 @@ React.js was chosen for its component-based structure, which allowed us to build
 ### Data Sources: 
 The content was curated from trusted sources, including NASA’s SDG data resources and the UN’s official SDG website. This ensures students receive accurate, up-to-date information related to sustainability.
 
-## The Benefits:
+## The Benefits: 
 
 ### Enhanced Engagement: 
 Students are more engaged due to the gamified learning model, which promotes active participation. Accessibility: The platform makes high-quality educational resources available to all students, regardless of their school's budget or technological limitations. Scalability: It can easily be scaled to cover additional subjects and be adapted by schools worldwide, making it a flexible solution for a variety of educational systems. Lifelong Learning: The project encourages students to take control of their own learning journey, fostering a culture of lifelong education.
