@@ -3,7 +3,7 @@ This website was developed as part of the NASA App Challenge to address real-wor
 
 Our project, Janavi, is named with deep meaning—"As precious as your life"—because we believe education holds that same value. The core of our project is a gamified educational platform designed specifically for high school students, focused on teaching the principles of sustainable development (aligned with the United Nations' SDGs). We built this platform to address several pressing issues in education, such as outdated teaching methods, lack of interactive resources, and accessibility challenges, especially in under-resourced areas.
 
-## How it Works:
+## How it Works: 
 The platform delivers interactive lessons that cover essential topics like energy conservation, waste management, and clean water solutions. Each lesson is presented in a gamified format, where students can engage with quizzes, tasks, and challenges that make learning fun, competitive, and rewarding. The idea is to encourage active participation, foster critical thinking, and improve retention of key concepts.
 
 Through this approach, we aim to bridge the gap in education quality by offering free, accessible content that caters to different learning styles and helps students connect with the real-world impact of sustainability. The platform is built with a mobile-responsive design, ensuring that students with varying levels of access to technology can benefit from it.
